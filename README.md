@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google-site-verification" content="l6FSehriSN6V1o0fUyEB7SLy7Ym0pepQBHWJM0tbyV0" />
+  <meta name="google-site-verification" content="TdfSehrSN6V" />
   <title>معرض الطبيعة - GreenScape</title>
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Montserrat:wght@700&display=swap" rel="stylesheet">
   <style>
